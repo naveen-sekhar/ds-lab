@@ -1,3 +1,4 @@
+#Datatypes
 #Double 
 a<-1
 typeof(a)
